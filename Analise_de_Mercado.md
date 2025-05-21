@@ -17,7 +17,7 @@ Este relatório analisa o mercado global de turismo entre 1999 e 2020, identific
 - <b>Receitas Totais:</b> 131,37 Trilhões (USD)
 - <b>Chegada de Turistas:</b> 310 Bilhões
 
-<b>Principais tendências:<b>
+<b>Principais tendências:</b>
 
 - Queda nas receitas em 2020 (-95,06% vs 2019), fortemente relacionado a pandemia de corona vírus.
 - Crescimento consistente no volume de turistas (+1.7% ao ano)
