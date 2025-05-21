@@ -39,8 +39,11 @@ Esta análise visa explorar os dados econômicos do turismo mundial entre 1999 e
 # 🔗 Links
 
 - Dashboard do Power Bi: <a href="https://app.powerbi.com/view?r=eyJrIjoiYzYxZDQwNzEtODBjMS00YjM4LWE5MGUtNGEyM2Y5MDU3ODkyIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9"> Acesse</a>
+
 - Dashboard em Python (Dash):
+
 - Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Turismo_Global/blob/main/Analise_de_Mercado.md"> Acesse </a>
+
 - Dashboards e Códigos Utilizados neste Projeto:
 
 <hr>
