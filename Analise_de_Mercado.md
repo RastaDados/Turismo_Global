@@ -107,7 +107,7 @@ Este relatório analisa o mercado global de turismo entre 1999 e 2020, identific
 - <b>Diversificação geográfica:</b> Reduzir dependência de mega destinos
 - <b>Parcerias regionais:</b> Cluster 1 (Croácia, Costa Rica) oferece melhor risco-retorno
 
-<hr
+<hr>
 
 ### Para Governos
 
